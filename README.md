@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JAVA,C++,UI-UX**
 
-- 📫 How to reach me **samyakmishra071@gmail.com**
+- 📫 How to contact me **samyakmishra071@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
