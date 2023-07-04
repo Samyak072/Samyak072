@@ -1,5 +1,5 @@
 # 💫 About Me:
-BTECH CSE '26 | Aspiring SDE I Leetcode 5+ | 4 ⭐ HackerRank C | 2 ⭐ HackerRank Java |2 ⭐ HackerRank C++ | Content Writer | Singer | Public Speaker 
+BTECH CSE '26 | Aspiring SDE I Leetcode 5+ | 4 ⭐ HackerRank C | 2 ⭐ HackerRank Java |2 ⭐ HackerRank C++ |Content Writer|Public Speaker 
 
 [![](https://visitcount.itsvg.in/api?id=Samyak072&icon=9&color=1)](https://visitcount.itsvg.in)
 
