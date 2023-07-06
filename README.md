@@ -1,8 +1,7 @@
 # 💫 About Me:
-BTECH CSE '26 | Aspiring SDE I Leetcode 5+ | 4 ⭐ HackerRank C | 2 ⭐ HackerRank Java |2 ⭐ HackerRank C++ |Content Writer|Public Speaker 
+BTECH CSE '26 | Aspiring SDE I Leetcode 5+ | 4 ⭐ HackerRank C | 2 ⭐ HackerRank Java | 2 ⭐ HackerRank C++ |Content Writer|Public Speaker 
 
 [![](https://visitcount.itsvg.in/api?id=Samyak072&icon=9&color=1)](https://visitcount.itsvg.in)
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100086940296579) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/samyak_072?igshid=MzNlNGNkZWQ4Mg==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samyak-m-595063250/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/https://www.quora.com/profile/Samyak-Mishra-22) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/samyak072) 
