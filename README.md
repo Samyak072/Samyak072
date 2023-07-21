@@ -1,5 +1,5 @@
 # 💫 About Me:
-BTECH CSE '26 | Coding Ninjas C.A | Aspiring SDE I Leetcode 5+ | 4 ⭐ HackerRank C | 2 ⭐ HackerRank Java | 2 ⭐ HackerRank C++ |Content Writer|Public Speaker 
+BTECH CSE '26 | Coding Ninjas C.A | Aspiring SDE I Leetcode 5+ | 4 ⭐ HackerRank C | 2 ⭐ HackerRank Java | 2 ⭐ HackerRank C++ | Content Writer |Public Speaker 
 
 [![](https://visitcount.itsvg.in/api?id=Samyak072&icon=9&color=1)](https://visitcount.itsvg.in)
 
@@ -25,7 +25,4 @@ BTECH CSE '26 | Coding Ninjas C.A | Aspiring SDE I Leetcode 5+ | 4 ⭐ HackerRan
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Samyak072&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
