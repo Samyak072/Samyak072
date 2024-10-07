@@ -1,5 +1,5 @@
 # 💫 About Me:
-BTECH CSE '26 | Aspiring SDE | C++ | Java | DSA | ML Enthusiast | Public Speaker | Content Writer |
+BTECH CSE '26 | Aspiring SDE | C++ | Java | DSA Lover | ML Enthusiast | Public Speaker | Content Writer |
 
 [![](https://visitcount.itsvg.in/api?id=Samyak072&icon=9&color=1)](https://visitcount.itsvg.in)
 
