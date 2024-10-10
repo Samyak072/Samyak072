@@ -1,6 +1,8 @@
 # 💫 About Me:
 Aspiring SDE | C++ | Java | Golang | ML | DSA | OS Contributor |<br>Content Writer | Public Speaker |
 
+---
+[![](https://visitcount.itsvg.in/api?id=Samyak072&icon=8&color=6)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samyak_072) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samyak072) 
@@ -21,7 +23,6 @@ Aspiring SDE | C++ | Java | Golang | ML | DSA | OS Contributor |<br>Content Writ
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Samyak072&limit=5&theme=react&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Samyak072&icon=8&color=6)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
