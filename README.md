@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samyak Mishra</h1>
-<h3 align="center">Aspiring SDE</h3>
+<h3 align="center">Aspiring SDE | C++ | Java | Golang | ML | DSA | OS Contributor | Content Writer | Public Speaker |</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samyak072&label=Profile%20views&color=0e75b6&style=flat" alt="samyak072" /> </p>
 
