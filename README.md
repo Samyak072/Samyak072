@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Samyak Mishra</h1>
 
 🌱 I’m currently learning C++ , ML
+
 📫 How to reach me sm2.cse.tmsl@ticollege.org
 
 [![](https://visitcount.itsvg.in/api?id=Samyak072&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
