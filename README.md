@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samyak Mishra</h1>
-<h3 align="center">Aspiring SDE | C++ | Java | Golang | ML | DSA | OS Contributor | Content Writer | Public Speaker |</h3>
 
 [![](https://visitcount.itsvg.in/api?id=Samyak072&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
