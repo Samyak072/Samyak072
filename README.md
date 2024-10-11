@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Samyak Mishra</h1>
-
+- 🌱 I’m currently learning **C++ , ML**
+- 📫 How to reach me **sm2.cse.tmsl@ticollege.org**
 [![](https://visitcount.itsvg.in/api?id=Samyak072&label=Profile%20Views&color=1&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 <img align="left" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyak072&show_icons=true&locale=en&layout=compact" alt="samyak072" /></p>
@@ -8,11 +10,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyak072&show_icons=true&locale=en" alt="samyak072" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyak072&" alt="samyak072" /></p>
-
-
-- 🌱 I’m currently learning **C++ , ML**
-
-- 📫 How to reach me **sm2.cse.tmsl@ticollege.org**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
