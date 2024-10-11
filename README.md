@@ -24,3 +24,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyak072&show_icons=true&locale=en" alt="samyak072" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyak072&" alt="samyak072" /></p>
+
+[![An image of @samyak072's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/samyak072)](https://holopin.io/@samyak072)
