@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Samyak Mishra</h1>
-
 🌱 I’m currently learning C++ , ML
 
 📫 How to reach me sm2.cse.tmsl@ticollege.org
