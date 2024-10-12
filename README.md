@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/45dceb640723d72436c427add7966cf8.gif"/>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samyak072&show_icons=true&locale=en&layout=compact" alt="samyak072" /></p>
 
-<p>![Samyak072's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samyak072&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samyak072&show_icons=true&locale=en" alt="samyak072" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samyak072&" alt="samyak072" /></p>
 
