@@ -1,29 +1,18 @@
-<h1 align="center">🚀 Welcome to Samyak Mishra's Cyber Lair 🖥️</h1>
+<h1 align="center">👾 Welcome to Samyak Mishra's Cyber Realm 🧑‍💻</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=green&center=true&vCenter=true&lines=Code+Architect+|+SDE+Aspiration;Open-Source+Evangelist;Mastering+ML%2C+DSA%2C+and+OS+Concepts;Breaking+Boundaries+One+Line+of+Code+at+a+Time" alt="Typing SVG">
-</p>
-🚀 Visitor Count
-
-[![](https://visitcount.itsvg.in/api?id=Samyak072&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
-<p align="center">
-<a href="mailto:sm2.cse.tmsl@ticollege.org"><img src="https://img.shields.io/badge/Email-me-green?style=flat&logo=gmail"></a>
-<a href="https://linkedin.com/in/samyak072"><img src="https://img.shields.io/badge/LinkedIn-Samyak072-blue?style=flat&logo=linkedin"></a>
-<a href="https://instagram.com/samyak_072"><img src="https://img.shields.io/badge/Instagram-Samyak072-pink?style=flat&logo=instagram"></a>
-<a href="https://www.leetcode.com/samyak072"><img src="https://img.shields.io/badge/LeetCode-Samyak072-yellow?style=flat&logo=leetcode"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=0FF000&center=true&vCenter=true&lines=System+Designer+|+AI+Explorer;Open-Source+Champion;Cybersecurity+Enthusiast;Lifelong+Learner+%26+Tech+Innovator;Building+the+Future+One+Line+of+Code+at+a+Time" alt="Typing SVG">
 </p>
 
----
 
-### 👨‍💻 About Me
-
-- 🌱 Currently learning: **C++ | Machine Learning | OS Design**  
-- 🔭 Exploring: **System Design | AI Frameworks | Open Source**  
-- 📫 Reach me: [sm2.cse.tmsl@ticollege.org](mailto:sm2.cse.tmsl@ticollege.org)  
-- 🎯 Goal: **Build a custom OS and shape the future of software development.**  
-
----
+### ⚡ The Hacker's Blueprint
+```bash
+> whoami
+Samyak Mishra - Aspiring SDE | Tech Leader | Innovator
+> ./mission
+"Create impactful software solutions, build a custom OS, and advance AI research."
+> ping -a sm2.cse.tmsl@ticollege.org
+Response from [Inbox]: Reachable
 
 ### 🧰 My Cyber Arsenal
 <p align="center">
