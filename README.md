@@ -4,7 +4,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&color=green&center=true&vCenter=true&lines=Code+Architect+|+SDE+Aspiration;Open-Source+Evangelist;Mastering+ML%2C+DSA%2C+and+OS+Concepts;Breaking+Boundaries+One+Line+of+Code+at+a+Time" alt="Typing SVG">
 </p>
 🚀 Visitor Count
----
+
 [![](https://visitcount.itsvg.in/api?id=Samyak072&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <p align="center">
