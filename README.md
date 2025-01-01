@@ -1,5 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=SamyakMishra072&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
-
 # 💫 About Me:
 🛠 I’m currently working on:<br>- Enhancing my skills in C++ and ML. <br><br>🤝 I’m looking to collaborate on: <br>- Open-source projects.  <br>- Technical initiatives under the GFG Student Chapter TMSL.  <br><br>🙋 I’m looking for help with: <br>- Improving my expertise in systems-level programming.  <br><br>🌱 I’m currently learning:<br>- Operating System concepts in depth.  <br>- Exploring more about SDE practices and tools.  <br><br>⚡ Fun fact:<br>- I’m passionate about open-source contributions and love sharing knowledge through public speaking!  
 
@@ -13,6 +11,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=SamyakMishra072&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SamyakMishra072&theme=blue_navy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SamyakMishra072&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=SamyakMishra072)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SamyakMishra072&theme=radical&no-frame=false&no-bg=false&margin-w=4)
