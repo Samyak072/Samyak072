@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=SamyakMishra072)
+[![](https://visitcount.itsvg.in/api?id=SamyakMishra072&label=Profile%20Views&color=6&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
 🛠 I’m currently working on:<br>- Enhancing my skills in C++ and ML. <br><br>🤝 I’m looking to collaborate on: <br>- Open-source projects.  <br>- Technical initiatives under the GFG Student Chapter TMSL.  <br><br>🙋 I’m looking for help with: <br>- Improving my expertise in systems-level programming.  <br><br>🌱 I’m currently learning:<br>- Operating System concepts in depth.  <br>- Exploring more about SDE practices and tools.  <br><br>⚡ Fun fact:<br>- I’m passionate about open-source contributions and love sharing knowledge through public speaking!  
